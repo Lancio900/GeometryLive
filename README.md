@@ -13,3 +13,11 @@ Un applicazione che illustra poligoni in 3D, con misure a scelta, (da 0 a 1, qui
 
 # GeometryCalculator
 Assieme al file Geometry_Live.py è presente un calcolatore dei poligoni elencati sopra.
+
+# Librerie da installare
+
+-matplotlib.pyplot 
+
+-from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+
+-numpy 
